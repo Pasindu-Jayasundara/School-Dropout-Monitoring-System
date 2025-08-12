@@ -1,0 +1,8 @@
+[package]
+org = "asus"
+name = "School_Dropout_Monitoring_System"
+version = "0.1.0"
+distribution = "2201.12.7"
+
+[build-options]
+observabilityIncluded = true
